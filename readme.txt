@@ -15,9 +15,14 @@ Creating a new branch is slow .....fuck you..
 
 test git..
 
-
+-------------------
+edit dev brach
+-------------------
 
 Creating a new branch is quick AND simple.
 
 
-fuck you...
+hello 22222
+
+tttttttttt
+edit origin/dev
